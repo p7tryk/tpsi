@@ -1,0 +1,145 @@
+<html>
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <meta charset="utf-8" /> 
+  <style>
+    html
+    {
+    background-color:white;
+    }
+  </style>
+  <body>
+    <a class="source">https://okiemdietetyka.pl/wp-content/uploads/2017/02/zupa-rybna-1.jpg</a>
+    <h2>Zupa Środziemnomorska </h2>
+    <h3><a href="https://smaker.pl/przepis-srodziemnomorska-zupa-rybna,30370,hubcio.htmll" class="source">Hubcio,</a> <i class="date">14 Grudnia, 2018</i></h3>
+    
+    <div class="cooking" style="background-color:#58FAF4;">
+      <div class="cooking-inline">
+	<img src="person.png" class="icon" alt="Osoby" /> 3-4
+      </div>
+      <div class="cooking-inline">
+	<img src="clock.png" class="icon" alt="Czas"/> 60 min
+      </div>
+      <div class="cooking-inline">
+	<img src="teapot.png" class="icon" alt="Trudność" /> Średnia
+      </div>
+    </div>
+    
+    <div style="clear:both;">
+      <div class="cooking-inline">
+	 <button onclick="location.href='#skladniki'" class="button" id="innerbutton"> Składniki </button>
+      </div>
+      <div class="cooking-inline">
+ <button onclick="location.href='#przygotowanie'" class="button" id="innerbutton" >Przygotowanie </button>
+      </div>
+    </div>
+    <div class="foreword" style="clear:both;">
+      <hr class="line">
+      Zupa ta smakuje nawet największym „wrogom” ryb i owoców morza :) To była pierwsza „zupa rybna” jakiej odważyłam się spróbować. Od tamtej pory często decyduję się na zupy rybne w restauracjach, ale powiem nieskromnie, że ta jest nadal moją ulubioną.<p>
+      <img class="inline-image"  src="https://static.smaker.pl/photos/c/d/4/cd4f0c70750a232f1a22f69749172f77_204007_5140f85ca4ee8_wm.jpg"/></p>
+
+    </div>
+    
+    
+    <div style="clear:both;">
+      <hr class="line">
+      <h4 id="skladniki"> Składniki </h4>
+      
+      <ul class="ingredients" id="skladniki">
+	
+	
+	<li class="first">
+	  bulion, 1.5L                                                      
+	</li>
+	<li>
+	  marchewka, 1                                                    
+	</li>
+	<li>
+	  seler naciowy, 4lodygi                                            
+	</li>
+	<li>
+	  ziemniak, 1duzy
+	</li>
+	<li>
+          cebula, 1duza                                    
+	</li>
+	<li>
+          Pomidory krojone, 1puszka                                           
+	</li>
+	<li>
+	  czosnek, 5zabkow                                                  
+    </li>
+	<li>
+	  
+          boczek wedzony, 100g                                                
+	</li>
+	
+	
+	<li>
+	  
+          filet z bialej ryby, 500g                                           
+	</li>
+	
+	
+	<li>
+	  malze, 15sztuk  
+	</li>
+	
+	
+	<li>
+	  
+	  krewetki, 10sztuk                                                 
+	</li>
+	
+	
+	<li>
+          biale wytrawne wino, szklanka                                       
+	</li>
+	
+	
+	<li>
+          tymianek(swiezy badz suszony), 1lyzka                               
+	</li>
+	
+	
+	<li>
+	  
+          koncentrat pomidorowy, 2lyzki                                     
+	</li>
+	
+	
+	<li>
+	  
+          maka do zasmazki                                                    
+	</li>
+	
+	
+	<li>
+          oliwa z oliwek                                                    
+	</li>
+	
+	
+	<li>
+          sos ostrygowy, 1lyzka                                               
+	</li>
+	
+      </ul>
+      <hr class="line">
+      <h4 id="przygotowanie"> Przygotowanie </h4>
+      
+      <ol type="I" class="making" id="przygotowanie" >
+<li>	Gotujemy bulion drobiwy.</li>
+<li>	Warzywa-seler ,marchewke,ziemniaki,cebule kroimy w mala kostke.</li>
+<li>	Po zagotowaniu bulionu dodajemy pokrojony drobno czosnek,boczek(pokrojony w kostke) tymianek oraz szklanke wina.</li>
+<li>	Gotujemy przez okolo 10 min.</li>
+<li>	W miedzy w drugim garnku robimy zasmazke na oliwie i dodajemy koncentrat pomidorowy.</li>
+<li>	Zalewamy zasmazke wywarem.</li>
+<li>	Nastepnie dokladamy warzywa pokrojone w kostke.</li>
+<li>	Gotujemy przez 15minut.</li>
+<li>	Pod koniec dodajemy pomidory ,rybe pokrojona dowolnie (bez skorki) malze i krewetki oraz sos ostrygowy.</li>
+<li>	Doprawiamy sola i pieprzem</li>
+      </ol>
+      
+    </div>
+  </body>
+</html>
+

@@ -1,0 +1,117 @@
+<html>
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <meta charset="utf-8" /> 
+  <style>
+    html
+    {
+    background-color:white;
+    }
+  </style>
+  <body>
+    <a class="source">https://www.kwestiasmaku.com/blog-kulinarny/salatka-nicejska</a>
+    <h2>Sałatka Nicejska</h2>
+    <h3><a href="https://www.kwestiasmaku.com/blog-kulinarny/salatka-nicejskal" class="source">Kwestia smaku,</a> <i class="date">18 Grudnia, 2018</i></h3>
+    
+    <div class="cooking" style="background-color:#58FAF4;">
+      <div class="cooking-inline">
+	<img src="person.png" class="icon" alt="Osoby" /> 2
+      </div>
+      <div class="cooking-inline">
+	<img src="clock.png" class="icon" alt="Czas"/> 20 min
+      </div>
+      <div class="cooking-inline">
+	<img src="teapot.png" class="icon" alt="Trudność" /> Łatwe
+      </div>
+    </div>
+    
+    <div style="clear:both;">
+      <div class="cooking-inline">
+	 <button onclick="location.href='#skladniki'" class="button" id="innerbutton"> Składniki </button>
+      </div>
+      <div class="cooking-inline">
+ <button onclick="location.href='#przygotowanie'" class="button" id="innerbutton" >Przygotowanie </button>
+      </div>
+    </div>
+    <div class="foreword" style="clear:both;">
+      <hr class="line">
+      Sałatka znana i lubiana, i jak to często bywa z tego rodzaju daniami występuje w wielu różnych wariantach i kombinacjach składników. Wspólnym mianownikiem są na pewno pomidory, jajka i tuńczyk. Inne często spotykane dodatki to czerwona cebula, fileciki anchois, oliwki oraz fasolka szparagowa, popularne są też wersje sałatki nicejskiej z ziemniakami. Warto zatem poeksperymentować aby znaleźć swoje ulubione połączenie.<p>
+      <img class="inline-image"  src="https://uploads.disquscdn.com/images/a75c2eb0912d87a204ecf402393f85289c86cda57c976c50f153591b07581169.jpg"/><p class="source">Kate<p></p>
+
+    </div>
+    
+    
+    <div style="clear:both;">
+      <hr class="line">
+      <h4 id="skladniki"> Składniki </h4>
+      
+      <ul class="ingredients" id="skladniki">
+	
+	
+	<li class="first">
+	 1/4 sałaty lodowej lub 1 sałata rzymska                                                      
+	</li>
+	<li>
+	  3 jajka                                                    
+	</li>
+	<li>
+	  80g fasolki szparagowej                                            
+	</li>
+	<li>
+	  160g tuńczyka w oliwie
+	</li>
+	<li>
+          4 fileciki anchois                                    
+	</li>
+	<li>
+          250g pomidorów                                          
+	</li>
+	<li>
+	  1/2 małej czerwonej cebuli                                                
+    </li>
+	<li>
+	  
+          10 sztuk czarnych oliwek                                                
+	</li>
+	
+	SOS
+	<li>
+	  
+          3 Łyżki oliwy extra                                          
+	</li>
+	
+	
+	<li>
+	  1 łyżeczka soku z cytryny  
+	</li>
+	
+	
+	<li>
+	  
+	 1 łyżeczka musztardy                                                
+	</li>
+	
+	
+	<li>
+         1/2 startego ząbka czosnku                                       
+	</li>
+	
+	
+	<li>
+          sół i świeżo zmielony czarny pieprz                               
+	</li>
+	
+      </ul>
+      <hr class="line">
+      <h4 id="przygotowanie"> Przygotowanie </h4>
+      
+      <ol type="I" class="making" id="przygotowanie" >
+<li>	Sałatę umyć i osuszyć. Sałatę lodową pokroić w kostkę, liście sałaty rzymskiej można pokroić lub ułożyć w całości na półmisku.</li>
+<li>Jajka ugotować na półtwardo (włożyć do garnka z wodą, nastawić i gotować 5 minut od zagotowania wody, zalać zimną wodą), obrać i pokroić na połówki. Ułożyć na sałacie.	</li>
+<li>	Dodać ugotowaną fasolkę szparagową, tuńczyka, fileciki anchois i pokrojone pomidory. Dodać cienko pokrojoną czerwoną cebulę oraz czarne oliwki.</li>
+<li>	Przygotować sos (wymieszać energicznie rózgą wszystkie składniki) i polać po sałatce.</li>
+      </ol>
+      
+    </div>
+  </body>
+</html>
+
